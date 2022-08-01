@@ -1,0 +1,5 @@
+flex-basis
+margin: auto;
+    will not work with float, if we did not specify width and with inline elements
+the units of CSS: vw
+control images
